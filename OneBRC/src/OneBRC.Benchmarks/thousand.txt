@@ -1,0 +1,1000 @@
+Oklahoma City;3.788
+Bouaké;2.235
+Bissau;-5.850
+Lyon;-26.330
+Busan;-2.753
+Dolisie;23.360
+Pointe-Noire;19.207
+Lubumbashi;-2.348
+Cairns;-41.827
+Riga;-8.438
+Damascus;7.416
+Djibouti;-2.663
+Los Angeles;-1.895
+Garissa;6.068
+Honolulu;-10.025
+Dodoma;43.022
+Luxembourg City;9.300
+Amsterdam;7.259
+Ségou;20.782
+Miami;11.239
+İzmir;1.702
+Brisbane;23.479
+Banjul;0.012
+Paris;-0.207
+Seoul;3.290
+Managua;2.250
+Ankara;-16.888
+Petropavlovsk-Kamchatsky;16.060
+Brazzaville;0.412
+Toluca;-24.075
+Palermo;3.476
+Lusaka;-2.581
+Changsha;-2.674
+Andorra la Vella;17.688
+Fukuoka;7.828
+Minneapolis;9.407
+Shanghai;-19.923
+Abidjan;-6.143
+Malabo;-5.919
+Sapporo;0.807
+Pyongyang;24.273
+Ifrane;-5.925
+Bridgetown;2.100
+Alexandria;3.294
+Arkhangelsk;0.842
+San Antonio;36.875
+Napoli;-24.841
+Berlin;10.188
+Detroit;30.056
+Sacramento;3.265
+Erbil;14.840
+Nicosia;7.629
+Bratislava;-1.655
+Ankara;-15.904
+Mumbai;-13.908
+Lusaka;-5.066
+Antsiranana;-19.103
+Kandi;-1.222
+Perth;-17.714
+Napoli;-27.033
+Copenhagen;29.391
+Adelaide;11.433
+Heraklion;4.488
+Dubai;27.040
+Auckland;0.048
+Phoenix;12.170
+Austin;-19.367
+La Ceiba;-17.048
+Addis Ababa;-4.064
+San Salvador;-19.465
+Khartoum;8.139
+Lubumbashi;-3.097
+Lodwar;6.580
+Accra;9.691
+Sochi;10.403
+Adelaide;10.559
+Abidjan;-6.561
+Athens;1.191
+Nouadhibou;-0.681
+Amsterdam;5.458
+Tromsø;34.560
+Vaduz;2.677
+Kyoto;-12.604
+Hong Kong;-0.856
+Naha;13.851
+Ankara;-15.825
+Hobart;-31.040
+Bouaké;2.108
+Khartoum;7.965
+San José;-18.010
+Makurdi;-21.596
+Jakarta;11.781
+Fianarantsoa;16.609
+Toluca;-24.660
+Minsk;0.033
+Port Vila;-8.023
+Ahvaz;-40.328
+Tehran;13.714
+Washington;0.031
+Guangzhou;-6.822
+Petropavlovsk-Kamchatsky;16.987
+Bujumbura;-34.832
+Beirut;-7.515
+Kunming;-23.568
+Guangzhou;-4.994
+Saint Petersburg;14.787
+Bridgetown;1.776
+Bordeaux;-15.426
+Conakry;1.096
+Mombasa;1.124
+Lubumbashi;-2.995
+Yellowknife;-3.399
+Rome;-25.938
+Omaha;14.992
+Phnom Penh;-13.886
+Erbil;14.840
+Maputo;2.848
+Yerevan;-4.148
+Niigata;-34.579
+Alexandra;-8.106
+Hanga Roa;28.504
+Vaduz;4.473
+Algiers;-31.508
+Cotonou;4.403
+Douala;-12.276
+Anadyr;-20.759
+Copenhagen;30.675
+Monaco;-23.510
+Kandi;-2.481
+Barcelona;6.179
+Zagreb;5.895
+Bishkek;-2.317
+Belgrade;-7.674
+Garoua;16.490
+George Town;3.404
+Rabat;-7.152
+Skopje;29.966
+Accra;9.177
+Andorra la Vella;13.962
+St. Louis;-2.349
+Tirana;-1.437
+Dar es Salaam;-12.359
+Ürümqi;-11.459
+Surabaya;-3.416
+Edinburgh;-29.284
+Mandalay;9.091
+Ndola;5.118
+Napier;0.731
+Chicago;9.546
+Fianarantsoa;12.691
+Cape Town;-12.546
+Alice Springs;3.529
+Dallas;-9.794
+Valletta;-30.001
+Yellowknife;-2.389
+San Antonio;35.929
+Bordeaux;-15.426
+Tehran;17.208
+Changsha;-3.566
+Fairbanks;-4.326
+Maun;8.422
+Marseille;-4.223
+Philadelphia;5.351
+Bishkek;-1.858
+Monterrey;-6.926
+Irkutsk;4.121
+Tegucigalpa;-3.719
+Kolkata;-33.726
+Hanoi;1.585
+Whitehorse;-12.806
+La Ceiba;-19.473
+Manama;13.961
+Vilnius;-1.668
+Saskatoon;-6.096
+Blantyre;-12.729
+Belize City;-8.684
+Abidjan;-6.516
+Canberra;-17.223
+Vienna;-16.136
+Pittsburgh;2.338
+Jayapura;3.858
+Mombasa;4.120
+Jacksonville;-3.366
+Bissau;-8.651
+Tripoli;12.950
+Whitehorse;-17.742
+Thiès;-25.783
+Cairns;-38.150
+Guangzhou;-7.274
+Manama;9.737
+N'Djamena;-17.871
+Vientiane;-0.249
+Shanghai;-22.292
+Pretoria;-14.888
+Edinburgh;-27.918
+Halifax;27.079
+Madrid;34.312
+Sapporo;-3.209
+Denver;9.599
+Thessaloniki;12.538
+Odesa;-36.098
+Chiang Mai;-4.546
+Dushanbe;41.074
+Dakar;-6.698
+Sokoto;14.641
+New Orleans;-1.413
+Baltimore;-12.288
+Kandi;-3.373
+Sapporo;2.655
+Tegucigalpa;-3.784
+Saint-Pierre;-25.570
+Vladivostok;-32.986
+Vientiane;-1.967
+La Paz;10.204
+Thiès;-28.311
+Willemstad;-8.979
+Bucharest;-2.124
+Mogadishu;13.204
+Columbus;-22.525
+Ndola;6.170
+Lomé;2.979
+Perth;-17.612
+Benghazi;9.035
+Sarajevo;-15.408
+Hanoi;-2.853
+Lviv;-4.211
+Pittsburgh;4.714
+Chittagong;-3.046
+Makassar;-15.531
+San Francisco;19.923
+Milwaukee;-1.359
+Chișinău;15.862
+Vancouver;27.341
+Arkhangelsk;4.751
+Ashgabat;-12.764
+Conakry;1.096
+Gagnoa;3.789
+Cabo San Lucas;-15.507
+Erzurum;-12.099
+Dublin;13.572
+Tehran;18.441
+Lagos;-22.302
+Hiroshima;-10.959
+Kunming;-26.434
+Riyadh;-11.170
+Nuuk;1.297
+Zürich;-21.098
+Hargeisa;5.474
+Tabora;-28.559
+Gaborone;-1.615
+Cape Town;-19.404
+Veracruz;-13.816
+Monaco;-22.857
+Mzuzu;2.677
+Indianapolis;-5.917
+Warsaw;-2.088
+Baku;22.969
+Lahore;-29.627
+Tegucigalpa;-1.735
+Gaborone;0.006
+Tunis;10.827
+Tehran;16.794
+Thiès;-23.750
+Aden;-18.255
+Fianarantsoa;14.179
+Milwaukee;-0.746
+Ahvaz;-38.205
+Tijuana;8.914
+Jos;-24.723
+Oslo;12.839
+Nouakchott;-20.529
+Yaoundé;-13.973
+Fianarantsoa;11.436
+Vienna;-13.419
+Rabat;-6.960
+Alice Springs;5.959
+Hamburg;-5.174
+Nouakchott;-17.031
+Andorra la Vella;16.927
+Ouarzazate;-9.571
+Lyon;-27.275
+Heraklion;3.171
+Hamilton;-5.445
+Cotonou;4.014
+Mumbai;-14.258
+Ngaoundéré;24.101
+Mumbai;-14.310
+Garoua;12.959
+Odienné;-7.270
+Beijing;0.049
+Bordeaux;-15.224
+Stockholm;-3.534
+Erbil;14.991
+Yakutsk;5.228
+Harare;-33.095
+Abha;-2.444
+Milan;5.256
+Harare;-32.653
+Bucharest;-2.577
+Cape Town;-14.862
+Ngaoundéré;20.808
+Belize City;-7.711
+Villahermosa;7.678
+Canberra;-18.912
+Nouakchott;-20.604
+Chișinău;15.700
+New York City;-33.012
+Niigata;-35.112
+Taipei;2.806
+Hargeisa;2.784
+N'Djamena;-14.485
+Kandi;-2.468
+Kansas City;30.608
+Chihuahua;-9.619
+San Jose;-0.742
+Marrakesh;15.261
+Malé;-3.408
+Omaha;17.700
+Jos;-26.666
+Nouadhibou;0.387
+Wrocław;1.090
+Palmerston North;5.933
+Da Lat;1.576
+Gaborone;0.884
+Managua;1.489
+Seattle;14.261
+Palermo;2.789
+Gangtok;-9.604
+Mogadishu;13.449
+Rabat;-7.212
+Kunming;-25.878
+Yerevan;-4.905
+Lomé;1.432
+Taipei;-0.218
+Andorra la Vella;17.530
+Juba;14.456
+Kandi;-6.627
+Bulawayo;4.465
+Medan;-12.570
+Jerusalem;-33.909
+Abha;-0.557
+Vladivostok;-33.156
+Kyoto;-6.870
+Gabès;-20.540
+Launceston;7.175
+Phnom Penh;-14.196
+Juba;15.472
+Bata;12.471
+Charlotte;-2.108
+San Salvador;-17.569
+Kyoto;-9.556
+Toluca;-22.910
+Vienna;-15.957
+Lomé;1.675
+City of San Marino;-7.012
+Vilnius;-1.029
+Tehran;17.045
+Nassau;35.861
+New Orleans;0.146
+Stockholm;-0.250
+Los Angeles;-1.466
+George Town;4.037
+Athens;1.348
+Belize City;-10.073
+Toliara;8.792
+Napier;0.870
+Tunis;10.341
+Memphis;4.972
+Brussels;-5.265
+Honiara;2.640
+Bordeaux;-12.796
+Hong Kong;-2.496
+Benghazi;11.077
+Abéché;6.686
+Niigata;-35.649
+Albuquerque;-5.583
+Damascus;8.626
+Tucson;-2.708
+Skopje;32.754
+Skopje;31.490
+Jacksonville;-5.309
+Monterrey;-7.901
+Bloemfontein;-26.265
+San José;-24.586
+Entebbe;5.917
+Mandalay;7.972
+Antsiranana;-23.614
+Abha;-2.677
+Niigata;-36.670
+Barcelona;5.264
+Makassar;-14.823
+San Francisco;18.573
+Lyon;-27.270
+Pittsburgh;2.235
+Tokyo;8.474
+Ottawa;7.140
+Thiès;-23.222
+Harbin;0.675
+Jayapura;5.417
+Tabriz;5.381
+San Juan;0.545
+Surabaya;-3.847
+Vienna;-19.041
+Seattle;12.620
+Odesa;-37.322
+Bangui;16.197
+San Salvador;-19.081
+Vancouver;26.051
+Suva;1.908
+Changsha;-3.632
+Philadelphia;8.431
+Wichita;17.466
+Sarajevo;-15.357
+Ségou;21.912
+Kinshasa;8.743
+Toluca;-24.644
+Chihuahua;-7.305
+Dublin;8.359
+Shanghai;-25.007
+Havana;-8.872
+Miami;9.872
+Tunis;13.760
+Tunis;13.507
+Assab;9.374
+Surabaya;-3.661
+Hanoi;-2.325
+Suwałki;0.426
+Iqaluit;-10.394
+Beirut;-8.936
+Wrocław;2.586
+Boise;16.340
+Tehran;17.328
+Lubumbashi;-0.273
+Wichita;17.350
+Alice Springs;6.337
+Marrakesh;14.056
+Nouakchott;-20.867
+Gangtok;-8.473
+Bloemfontein;-26.469
+Chittagong;-4.992
+Pretoria;-13.041
+Berlin;10.750
+Brussels;-1.882
+La Ceiba;-15.377
+Houston;0.386
+Mek'ele;30.214
+Yakutsk;3.009
+Petropavlovsk-Kamchatsky;13.829
+Durban;18.929
+Zagreb;2.504
+Las Vegas;-14.048
+Nairobi;-15.189
+Makurdi;-24.442
+Ankara;-16.509
+Edmonton;7.530
+Tbilisi;26.810
+Ürümqi;-12.668
+Tehran;16.681
+Whitehorse;-15.568
+Gagnoa;3.222
+Dar es Salaam;-15.721
+Johannesburg;22.361
+Sofia;-15.517
+Tashkent;-2.695
+Ashgabat;-12.607
+Sochi;9.724
+Kuopio;1.856
+St. John's;12.447
+San Antonio;35.710
+Thiès;-25.128
+Dhaka;22.932
+Tbilisi;21.975
+Bouaké;0.854
+Nakhon Ratchasima;8.051
+Mzuzu;2.677
+Kyiv;-8.474
+Rome;-26.824
+Kunming;-26.841
+Ottawa;8.115
+Edmonton;8.786
+Hiroshima;-9.676
+Boston;16.277
+Bergen;-3.697
+Benghazi;12.896
+Livingstone;-3.308
+Lubumbashi;-1.376
+Harare;-32.499
+Lagos;-26.994
+Ouarzazate;-10.750
+Brussels;-2.249
+Napoli;-26.965
+Saint Petersburg;16.533
+Harbin;0.644
+Ségou;21.230
+Wau;-23.662
+Halifax;26.993
+El Paso;-9.679
+Edinburgh;-27.776
+Johannesburg;26.111
+Marrakesh;11.445
+Benghazi;10.310
+Bouaké;2.235
+Ürümqi;-10.637
+Indianapolis;-9.088
+Praia;25.739
+Moscow;-15.516
+Lake Tekapo;4.238
+Tripoli;13.113
+Karachi;-8.962
+Singapore;-14.418
+Benghazi;10.796
+Lahore;-29.627
+Christchurch;27.285
+Ouagadougou;10.569
+Vilnius;1.672
+Batumi;-4.903
+Fairbanks;-3.586
+Podgorica;-2.951
+Honiara;2.797
+Manama;14.696
+Lake Tekapo;3.622
+Yellowknife;-1.734
+Brisbane;22.748
+Nashville;5.558
+Dolisie;25.552
+Lake Havasu City;7.666
+Madrid;35.206
+Ghanzi;-16.661
+Nuuk;1.174
+Durban;15.254
+Cairo;9.960
+Launceston;1.078
+Ankara;-17.172
+Bissau;-9.863
+Cairns;-37.945
+Da Lat;-0.658
+Conakry;0.773
+Pontianak;9.178
+Heraklion;3.909
+Tijuana;11.661
+Amsterdam;9.111
+Kingston;-1.698
+Anadyr;-18.882
+Taipei;2.915
+Andorra la Vella;15.659
+Brussels;-5.100
+Mexicali;38.048
+Omaha;14.992
+Tamale;19.990
+Taipei;2.900
+Ankara;-17.347
+Mek'ele;28.361
+Tokyo;7.090
+Tamanrasset;3.630
+Baguio;0.384
+Bissau;-6.322
+Yerevan;-0.395
+Fianarantsoa;13.962
+Bishkek;-4.123
+Dubai;27.282
+Baku;21.348
+Brisbane;22.175
+Detroit;30.139
+Brussels;-5.838
+Nicosia;6.549
+Napoli;-24.582
+Kansas City;30.765
+Baltimore;-11.962
+Louisville;-2.414
+Pointe-Noire;21.907
+Tel Aviv;-3.268
+Melbourne;13.104
+Hargeisa;2.796
+Lhasa;-1.526
+Los Angeles;-1.536
+Amsterdam;9.717
+Vilnius;3.406
+Erzurum;-11.573
+Minsk;-2.847
+Belize City;-9.178
+Toliara;9.976
+Sydney;-6.532
+Kyiv;-8.466
+Sana'a;2.859
+Dallas;-11.722
+Muscat;5.657
+Milwaukee;-1.492
+Cairo;9.149
+Antananarivo;-2.164
+Antananarivo;-3.236
+Damascus;9.315
+Tucson;-4.438
+Moscow;-15.017
+Bata;11.216
+Seattle;11.604
+Tel Aviv;0.553
+Chicago;5.714
+Tel Aviv;-4.294
+Columbus;-20.544
+Kabul;22.304
+Pointe-Noire;24.899
+Lisbon;10.247
+Bujumbura;-37.123
+Bouaké;1.801
+Xi'an;32.819
+Lake Tekapo;6.280
+City of San Marino;-13.364
+Kabul;24.901
+Havana;-11.051
+Anchorage;0.673
+Calgary;-34.089
+Palmerston North;8.551
+Petropavlovsk-Kamchatsky;18.134
+Aden;-16.449
+Heraklion;4.140
+Da Lat;-0.633
+Palembang;14.276
+Kuala Lumpur;3.145
+Upington;-13.533
+Anadyr;-20.027
+Ankara;-16.888
+Dhaka;21.183
+Almaty;21.989
+Kyoto;-6.392
+Libreville;-5.652
+Wichita;16.177
+Whitehorse;-15.301
+Dodoma;43.230
+Oslo;15.171
+Nakhon Ratchasima;7.713
+Stockholm;-0.936
+Athens;0.445
+Baku;21.762
+Cabo San Lucas;-19.935
+Houston;2.330
+Juba;12.897
+Palembang;11.959
+Gangtok;-9.482
+Singapore;-14.947
+Reggane;-10.760
+Jayapura;4.591
+Burnie;-6.090
+Seoul;4.818
+Abéché;4.168
+Tampa;9.142
+Malé;-4.852
+City of San Marino;-11.598
+Mogadishu;12.914
+Port Moresby;-34.830
+Minsk;0.916
+Chicago;9.289
+Praia;23.883
+Wau;-25.179
+Cairo;6.932
+Ho Chi Minh City;-18.467
+Lake Havasu City;4.470
+Kuwait City;-2.483
+Panama City;3.207
+Nouadhibou;-0.250
+Accra;9.227
+Lubumbashi;-0.106
+Villahermosa;5.316
+Prague;-8.371
+Porto;-6.937
+Chișinău;12.861
+Bergen;-5.515
+Naha;12.617
+Malé;-5.157
+Nassau;39.761
+Vladivostok;-33.400
+Malabo;-7.359
+Hobart;-27.591
+Napier;0.315
+Busan;-2.610
+Ndola;5.895
+Tegucigalpa;-5.658
+Kathmandu;7.006
+Alexandria;8.198
+Mombasa;-3.392
+Virginia Beach;-6.302
+Riga;-7.057
+Hong Kong;-2.837
+Makassar;-13.066
+Bangui;16.014
+Kansas City;33.521
+Beijing;1.830
+Beirut;-10.016
+Toliara;7.080
+Santo Domingo;4.777
+Toronto;-20.435
+Warsaw;-2.088
+Yerevan;-3.334
+Odesa;-37.591
+Seoul;3.372
+Darwin;16.875
+Kuwait City;-1.521
+Kano;-8.104
+Baguio;1.294
+Saskatoon;-6.479
+Reggane;-9.946
+Tunis;11.729
+Oklahoma City;4.039
+Washington;0.265
+Saint-Pierre;-27.432
+Arkhangelsk;1.343
+Shanghai;-23.446
+Birao;11.285
+San José;-20.029
+Manama;16.835
+Libreville;-5.840
+Anadyr;-20.983
+Karachi;-10.189
+Benghazi;10.891
+Parakou;5.180
+Denver;8.583
+Bosaso;-2.100
+Kabul;23.293
+Niigata;-34.097
+Gabès;-20.539
+Batumi;-5.122
+Addis Ababa;-4.778
+Phnom Penh;-11.700
+Port-Gentil;25.409
+Podgorica;-1.985
+Zanzibar City;-14.969
+Mandalay;10.031
+Petropavlovsk-Kamchatsky;14.375
+Saskatoon;-6.040
+Ürümqi;-11.385
+Cairo;9.998
+Kuopio;0.813
+Havana;-11.824
+Copenhagen;31.091
+Sokoto;15.449
+Almaty;17.930
+Banjul;0.012
+Kampala;-11.296
+Rabat;-7.521
+Amsterdam;6.768
+Murmansk;2.413
+Yakutsk;8.296
+Gaborone;3.838
+Helsinki;-1.900
+Gaborone;-1.281
+Tashkent;-0.462
+Lyon;-26.426
+Tegucigalpa;-6.290
+Wau;-24.853
+Memphis;3.211
+Belgrade;-13.733
+Andorra la Vella;18.863
+Sacramento;6.054
+Rome;-25.793
+Petropavlovsk-Kamchatsky;17.648
+Pretoria;-13.049
+Chongqing;-4.400
+Valletta;-30.216
+Damascus;8.050
+San Antonio;38.142
+Louisville;-1.934
+Benghazi;8.849
+Gabès;-18.327
+Tamale;15.752
+Heraklion;3.128
+Amsterdam;9.132
+Ottawa;7.140
+Conakry;-0.170
+Durban;16.463
+Oklahoma City;4.167
+Bucharest;-0.019
+Pittsburgh;0.891
+Odesa;-38.241
+Naha;15.159
+Parakou;3.394
+Bilbao;9.953
+Panama City;6.385
+Harare;-29.882
+Kankan;-2.055
+Suwałki;-0.081
+Lahore;-30.971
+Odienné;-7.439
+Pyongyang;28.153
+Darwin;16.207
+Shanghai;-22.922
+Bordeaux;-15.579
+Ouahigouya;19.522
+Monaco;-26.306
+Los Angeles;-1.645
+Bangui;18.128
+Sochi;10.788
+Budapest;-20.972
+Changsha;-0.619
+Willemstad;-9.972
+Mahajanga;-38.488
+Ljubljana;27.225
+Omaha;14.992
+Kolkata;-31.994
+Zürich;-18.171
+Dushanbe;42.455
+Chihuahua;-8.339
+Gabès;-20.180
+Moscow;-14.588
+Erbil;17.210
+Juba;13.289
+Ifrane;-4.330
+Honiara;2.644
+Brussels;-5.379
+Athens;0.339
+Monaco;-23.615
+Antananarivo;-3.884
+Sydney;-3.494
+Louisville;-1.448
+Ifrane;-3.796
+Gabès;-17.765
+Stockholm;0.008
+Havana;-8.648
+Auckland;3.244
+Ankara;-16.888
+Dallas;-13.954
+Harbin;0.936
+Bamako;14.454
+Perth;-17.437
+Changsha;-1.363
+St. Louis;-2.965
+Zanzibar City;-14.035
+Malabo;-8.758
+Palm Springs;-30.826
+Banjul;-0.039
+Christchurch;30.898
+Kuala Lumpur;2.581
+Dikson;-9.152
+Harbin;2.702
+Brazzaville;1.869
+Nouadhibou;1.174
+Bujumbura;-35.806
+Astana;2.784
+Kyiv;-8.671
+Skopje;30.074
+Kathmandu;2.892
+Reykjavík;-36.113
+Mahajanga;-38.666
+Mahajanga;-41.846
+Tromsø;31.289
+Andorra la Vella;14.438
+Xi'an;31.624
+Niigata;-35.649
+Sana'a;1.943
+Novosibirsk;-31.683
+Ouahigouya;20.428
+Bosaso;-1.808
+Montreal;-1.380
+Jakarta;13.437
+Roseau;-10.989
+Upington;-12.925
+Benghazi;10.682
+Moscow;-13.717
+Kabul;20.436
+Kumasi;7.215
+Kabul;20.457
+Suwałki;-0.846
+Ouagadougou;10.596
+Athens;0.783
+Tabriz;5.232
+Brazzaville;0.709
+San José;-20.961
+Lodwar;6.165
+Havana;-8.802
+Port Moresby;-34.830
+Bridgetown;1.895
+Salt Lake City;-1.490
+Tokyo;9.908
+Darwin;17.181
+Murmansk;-1.750
+Lahore;-28.990
+Singapore;-10.512
+Marrakesh;14.896
+San Juan;0.767
+Bratislava;0.316
+Tallinn;-12.061
+Hamilton;-3.375
+Port Vila;-5.222
+Amsterdam;4.797
+Jerusalem;-35.138
+Auckland;-0.756
+Surabaya;-7.915
+Sydney;-3.082
+Minsk;1.208
+Da Lat;-1.299
+Manama;17.299
+Maun;4.661
+Ngaoundéré;19.977
+Accra;10.580
+Jos;-24.888
+Minneapolis;8.786
+Baguio;-0.226
+La Ceiba;-18.155
+Omaha;14.971
+Rome;-25.926
+Dhaka;22.742
+Las Palmas de Gran Canaria;3.243
+Erbil;15.477
+Auckland;1.118
+Luanda;3.110
+Toliara;9.390
+Damascus;6.357
+Hat Yai;1.884
+San José;-21.932
+Fairbanks;-2.957
+Batumi;-7.220
+Marseille;-1.325
+Saskatoon;-5.945
+Dunedin;-28.783
+Minsk;-0.174
+Austin;-18.493
+Bilbao;12.448
+Niamey;3.487
+Nouakchott;-22.784
+San Francisco;18.145
+Flores;-6.008
+Vienna;-16.646
+Tripoli;13.117
+Bosaso;1.312
+Charlotte;1.735
+Mombasa;0.000
+Bosaso;-1.394
+Tijuana;10.274
+Sofia;-18.044
+Alexandria;8.264
+İzmir;2.061
+Havana;-8.457
+Tel Aviv;-5.106
+Algiers;-35.559
+Tijuana;10.061
+Ifrane;-2.896
+Arkhangelsk;2.456
+Odesa;-34.920
+Madrid;32.225
+London;7.289
+Split;8.883
+Lhasa;-3.235
+Assab;12.634
+Erzurum;-12.210
+Bissau;-6.987
+Yellowknife;-3.961
+Pyongyang;22.941
+Ho Chi Minh City;-17.475
+Kankan;-3.213
+Halifax;26.463
+La Ceiba;-17.421
+Karachi;-10.760
+Sarajevo;-12.869
+Tehran;17.226
+La Paz;13.272
+Gabès;-20.122
+Melbourne;9.204
+Brussels;-3.749
+Tehran;17.101
+Ulaanbaatar;0.166
+Rome;-23.491
+Hamilton;-4.753
+Mahajanga;-38.020
+Roseau;-14.526
+Tirana;-1.085
+Port-Gentil;24.839
+Omaha;16.119
+San Antonio;38.794
+Honolulu;-11.569
+Chongqing;-5.777
+Ahvaz;-37.573
+Kuopio;2.978
+Birao;14.054
+Brussels;-5.754
+Vladivostok;-33.117
+Ségou;20.339
+Tegucigalpa;-7.321
+Nairobi;-16.945
+Addis Ababa;-5.035
+Chittagong;-5.334
+St. Louis;-2.664
+Rome;-25.581
+Lagos;-23.750
+Livingstone;-5.057
+Maun;8.088
+Whitehorse;-15.654
+Marrakesh;14.249
+Abha;-2.089
+Medan;-9.791
+Milwaukee;-1.577
+Seoul;4.639
+Toamasina;7.986
+Salt Lake City;2.029
+Mumbai;-13.568
+Port-Gentil;25.740
+Lisbon;9.706
+Wau;-21.753
+Erzurum;-10.248
+Istanbul;-39.957
+Indianapolis;-6.646
+Gagnoa;6.610
+Wichita;16.727
