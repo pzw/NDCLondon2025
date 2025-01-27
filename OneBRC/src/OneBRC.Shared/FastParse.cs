@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace OneBRC.Shared;
 
-public class FastParse
+public static class FastParse
 {
-    public static int ParseAsInt(ReadOnlySpan<byte> span)
+    public static int FloatAsInt(ReadOnlySpan<byte> span)
     {
         // assume que le nombre est positif
         var value = 0;

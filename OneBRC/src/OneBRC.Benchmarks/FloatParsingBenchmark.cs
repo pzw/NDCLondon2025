@@ -11,13 +11,14 @@ using System.Threading.Tasks;
 namespace OneBRC.Benchmarks;
 
 [MemoryDiagnoser]
-public class FloatingParsingBenchmark
+public class FloatParsingBenchmark
 {
     private const byte Semicolon = (byte)';';
     private const byte NewLine = (byte)'\n';
 
     private static readonly string Line = "London;1.111";
-    private static readonly byte[] Utf8Line = "London;1.111"u8.ToArray();
+    // private static readonly byte[] Utf8Line = "London;1.111"u8.ToArray();
+    private static readonly ReadOnlyMemory<byte> Utf8Line = "London;1.111"u8.ToArray();
     private static readonly byte[] Lines = "London;1.11\nParis;0.222\nNew-York;555.555\n"u8.ToArray();
 
     private static readonly string Floats = Enumerable.Range(0, 1000)
@@ -54,7 +55,8 @@ public class FloatingParsingBenchmark
     [Benchmark]
     public float Utf8ZeroAllocation()
     {
-        var span = Utf8Line.AsSpan();
+        //var span = Utf8Line.AsSpan();
+        var span = Utf8Line.Span;
         var split = span.IndexOf(Semicolon);
         span = span.Slice(split + 1);
         return float.Parse(span);

@@ -70,6 +70,7 @@ public partial class CityBenchmark
 
     public static byte[] GetThousandTxt()
     {
+        // pour que ça fonctionne, thousand.txt doit être considéré comme un embedded resource
         using var s = Assembly.GetExecutingAssembly().GetManifestResourceStream("OneBRC.Benchmarks.thousand.txt");
         var buffer = new byte[s.Length];
         s.ReadExactly(buffer);

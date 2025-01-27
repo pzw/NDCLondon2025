@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OneBRC.Benchmarks;
 
-public class MultiByteParsingBenchmark
+public class MultiFloatParsingBenchmark
 {
     private const byte Semicolon = (byte)';';
     private const byte NewLine = (byte)'\n';
